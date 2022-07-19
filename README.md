@@ -1,6 +1,5 @@
 # Aplicación de consola interactiva
 
-Esta aplicación es parte de mi curso de Node de cero a experto que puedes encontrar aquí:
+Esta aplicación es una aplicación node para gestionar tareas a través de la consola. 
 
-[Node: De cero a experto](https://fernando-herrera.com/#/curso/node-cero-experto)
 
